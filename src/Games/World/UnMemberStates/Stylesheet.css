@@ -1,0 +1,15 @@
+.countries:not(:hover) {
+    fill: white;
+}
+
+.countries:hover {
+    fill: yellow;
+}
+
+.correctGuess {
+    fill: green !important;
+}
+
+.skipped {
+    fill: orangered !important;
+}
